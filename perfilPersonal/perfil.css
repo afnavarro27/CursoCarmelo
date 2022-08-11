@@ -1,0 +1,15 @@
+#container-prin{
+    display: flex;
+    border: 3px solid red;
+    width: 70%;
+    height: 600px;
+    
+}
+.intro{
+    display: flex;
+    border: 2px solid red;
+    margin: 6mm;
+    width: 93%;
+    height: 35px;
+}
+    
